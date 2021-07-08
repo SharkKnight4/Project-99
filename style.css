@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url("chat.gif");
+}
+.create_acount{
+height: 60px;
+width: 10px;
+}
+#headerimage{
+    height: 200px;
+    width: 200px;
+}
+div{
+    background-color:yellow;
+    height: fit-content;
+    border-radius: 50%;
+}
